@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1051343170522-r8i490eq1tkq4l3333o4fc1srth7345a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1051343170522</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOQSmzU_js2YdzTWIfty37FrRhAG5e0fk</string>
+    <string name="google_app_id" translatable="false">1:1051343170522:android:5fa34dfaea78eb0fddaee3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOQSmzU_js2YdzTWIfty37FrRhAG5e0fk</string>
+    <string name="google_storage_bucket" translatable="false">ambulanceproject-a0084.appspot.com</string>
+    <string name="project_id" translatable="false">ambulanceproject-a0084</string>
+</resources>
